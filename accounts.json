@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "username": "m",
+        "password": "",
+        "inventory": {
+            "skins": [],
+            "banners": [
+                "banner_padrao"
+            ],
+            "avatars": [
+                "avatar_validation"
+            ]
+        },
+        "equipped": {
+            "skin": null,
+            "banner": "banner_padrao",
+            "avatar": "avatar_validation"
+        }
+    }
+]
